@@ -16,13 +16,13 @@ I build scalable, production-ready full-stack web applications using the MERN st
 
 ## 🚀 About Me
 
-* 🎓 MCA Graduate from **Savitribai Phule Pune University**
-* 💼 Full Stack Developer with internship experience at **ATUM Soft Technologies**
-* 🏗️ Successfully delivered a **production-ready client project** for **Autocon Solutions LLP**
-* 🌱 Currently learning **System Design, Advanced TypeScript, Backend Engineering & DSA**
-* 💡 Passionate about building scalable Full Stack applications using the MERN Stack
-* 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, TypeScript, REST APIs & JWT Authentication**
-* 🎯 Looking for **Full Stack Developer / MERN Stack Developer / Software Engineer** roles
+- 🎓 MCA Graduate from **Savitribai Phule Pune University**
+- 💼 Full Stack Developer with internship experience at **ATUM Soft Technologies**
+- 🏢 Built enterprise-grade applications including **WorkSphere HRMS** and **Autocon Solutions**
+- 🌱 Currently learning **System Design, Advanced TypeScript, Backend Engineering & DSA**
+- 💡 Passionate about building scalable Full Stack applications using the MERN Stack
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, TypeScript, REST APIs & JWT Authentication**
+- 🎯 Looking for **Full Stack Developer / MERN Stack Developer / Software Engineer** opportunities
 
 ---
 
@@ -63,7 +63,38 @@ I build scalable, production-ready full-stack web applications using the MERN st
 
 # ⭐ Featured Projects
 
-## 🏭 Autocon Solutions LLP ⭐
+## 🏢 WorkSphere HRMS ⭐
+
+**Enterprise-grade Human Resource Management System**
+
+**Tech Stack**
+
+`MERN` • `TypeScript` • `JWT` • `MongoDB` • `Tailwind CSS` • `Slack API` • `Google Workspace` • `SSE`
+
+### ✨ Features
+
+- 👥 Employee Management
+- 📁 Client & Project Management
+- 📅 Leave & Attendance
+- 💰 Payroll Management
+- 🔐 JWT Authentication & RBAC
+- 🔔 Real-Time Notifications
+- 💬 Communication Center
+- 🔗 Slack Integration
+- 📅 Google Calendar Integration
+- 📊 Analytics Dashboard
+
+🌐 **Live Demo**
+
+https://work-sphere-enterprise-hrms.vercel.app/
+
+📂 **Repository**
+
+https://github.com/prathameshkamble979/WorkSphere-Enterprise-HRMS
+
+---
+
+## 🏭 Autocon Solutions ⭐
 
 **Production-ready Industrial B2B Platform developed for a real client**
 
@@ -73,18 +104,23 @@ I build scalable, production-ready full-stack web applications using the MERN st
 
 ### ✨ Features
 
-* 🏭 Industrial Product Catalogue
-* 🛠️ Admin Dashboard
-* 📦 Product Management
-* 📨 Lead & Enquiry Management
-* 🔐 JWT Authentication
-* ☁️ Cloudinary Integration
-* 📱 Responsive UI
+- 🏭 Industrial Product Catalogue
+- 🛠️ Admin Dashboard
+- 📦 Product Management
+- 📨 Lead & Enquiry Management
+- 🤖 AI Product Recommendation Assistant
+- 🔎 AI Semantic Search
+- 📄 Smart Quotation Generator
+- 📈 ROI Calculator
+- 🔐 JWT Authentication
+- ☁️ Cloudinary Integration
 
 🌐 **Live Demo**
+
 https://autocon-client.vercel.app/
 
 📂 **Repository**
+
 https://github.com/prathameshkamble979/Autocon-Solutions
 
 ---
@@ -99,18 +135,20 @@ https://github.com/prathameshkamble979/Autocon-Solutions
 
 ### ✨ Features
 
-* 🤖 AI Tutor (Gemini API)
-* 👨‍🏫 Instructor Dashboard
-* 👨‍🎓 Student Dashboard
-* 💳 Razorpay Payment Integration
-* 📈 Progress Tracking
-* 📚 Course Management
-* 🔐 Secure Authentication
+- 🤖 AI Tutor
+- 👨‍🏫 Instructor Dashboard
+- 👨‍🎓 Student Dashboard
+- 💳 Razorpay Integration
+- 📈 Progress Tracking
+- 📚 Course Management
+- 🔐 Secure Authentication
 
 🌐 **Live Demo**
+
 https://virtualcourses-1-8fw8.onrender.com/
 
 📂 **Repository**
+
 https://github.com/prathameshkamble979/AI-Learning-Platform
 
 ---
@@ -125,42 +163,45 @@ https://github.com/prathameshkamble979/AI-Learning-Platform
 
 ### ✨ Features
 
-* 🏡 Property Listings
-* 🔍 Smart Property Search
-* 🔐 User Authentication
-* ⚡ React Query
-* 📱 Responsive UI
-* 📝 Form Validation
+- 🏡 Property Listings
+- 🔍 Smart Search
+- 🔐 Authentication
+- ⚡ React Query
+- 📱 Responsive Design
+- 📝 Form Validation
 
 🌐 **Live Demo**
- https://real-estate-app-7b76a.web.app/
+
+https://real-estate-app-7b76a.web.app/
 
 📂 **Repository**
+
 https://github.com/prathameshkamble979/RealEstate-Platform
 
 ---
 
 ## 📊 Sales CRM
 
-**Full Stack CRM Platform**
+**Customer Relationship Management Platform**
 
 **Tech Stack**
 
-`MERN` • `JWT` • `REST APIs` • `MongoDB`
+`MERN` • `MongoDB` • `JWT` • `REST APIs`
 
 ### ✨ Features
 
-* 👥 Client Management
-* 📊 Dashboard & Analytics
-* 🔐 JWT Authentication
-* 🔄 CRUD Operations
-* ⚡ REST APIs
-* 🗃️ MongoDB Database
+- 👥 Client Management
+- 📊 Dashboard & Analytics
+- 🔐 JWT Authentication
+- 🔄 CRUD Operations
+- 📈 Sales Tracking
 
 🌐 **Live Demo**
+
 https://sales-crm-two-delta.vercel.app/
 
 📂 **Repository**
+
 https://github.com/prathameshkamble979/Sales_CRM
 
 ---
@@ -171,11 +212,11 @@ https://github.com/prathameshkamble979/Sales_CRM
 
 **ATUM Soft Technologies | Pune**
 
-* Developed scalable Full Stack applications using the MERN Stack
-* Built reusable React components
-* Designed secure REST APIs
-* Worked on production-ready client projects
-* Followed Agile development practices and Git workflows
+- Developed scalable Full Stack applications using the MERN Stack
+- Built reusable React components
+- Designed secure REST APIs
+- Worked on production-ready client projects
+- Followed Agile development practices and Git workflows
 
 ---
 
@@ -183,18 +224,19 @@ https://github.com/prathameshkamble979/Sales_CRM
 
 **Autocon Solutions LLP**
 
-* Delivered a production-ready industrial website
-* Developed complete frontend & backend architecture
-* Implemented enquiry and lead management workflows
-* Collaborated directly with stakeholders to deliver business requirements
+- Delivered a production-ready industrial platform
+- Built complete frontend & backend architecture
+- Developed admin dashboard and product management
+- Implemented enquiry & lead management
+- Collaborated directly with stakeholders
 
 ---
 
 # 📜 Certifications
 
-* 🎓 Sigma 5.0 – Full Stack Development & DSA
-* 🎓 MERN Stack Training Program – Tech Saksham
-* 🎓 Accenture Full Stack Developer Job Simulation – Forage
+- 🎓 Sigma 5.0 – Full Stack Development & DSA
+- 🎓 MERN Stack Training Program – Tech Saksham
+- 🎓 Accenture Full Stack Developer Job Simulation – Forage
 
 ---
 
@@ -218,13 +260,16 @@ https://github.com/prathameshkamble979/Sales_CRM
 
 # 🏆 Highlights
 
-* 🚀 Built multiple production-ready Full Stack applications
-* 💼 Delivered software for real clients
-* 🌐 Deployed scalable MERN applications
-* 🤖 Integrated Gemini AI into production projects
-* 💳 Integrated Razorpay Payment Gateway
-* 🔐 Built secure authentication systems using JWT
-* 📱 Designed responsive user interfaces with React & Tailwind CSS
+- 🏢 Built an enterprise-grade HRMS platform with Role-Based Access Control
+- 🚀 Developed multiple production-ready MERN applications
+- 💼 Delivered software for real business clients
+- 💬 Built real-time communication using Server-Sent Events
+- 🔐 Designed secure authentication using JWT
+- 🤖 Integrated AI-powered features into production applications
+- 💳 Integrated Razorpay Payment Gateway
+- ☁️ Cloudinary Image Management
+- 📊 Built scalable REST APIs with Express.js & MongoDB
+- 📱 Developed responsive UIs using React & Tailwind CSS
 
 ---
 
@@ -236,7 +281,7 @@ https://github.com/prathameshkamble979/Sales_CRM
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="http://www.linkedin.com/in/prathamesh-kamble06/">
+<a href="https://www.linkedin.com/in/prathamesh-kamble06/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -263,9 +308,9 @@ https://github.com/prathameshkamble979/Sales_CRM
 </p>
 
 <h3 align="center">
-💡 <i>"Building software that solves real-world problems through clean code, scalable architecture, and continuous learning."</i>
+💡 <i>"Building software that solves real-world problems through scalable architecture, clean code, and continuous learning."</i>
 </h3>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Let's build something amazing together.
+⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
 </h3>
