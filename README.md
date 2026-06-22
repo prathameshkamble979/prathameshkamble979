@@ -145,7 +145,7 @@ https://github.com/prathameshkamble979/Autocon-Solutions
 
 🌐 **Live Demo**
 
-https://virtualcourses-1-8fw8.onrender.com/
+https://ai-learning-platform-phi-rose.vercel.app/
 
 📂 **Repository**
 
