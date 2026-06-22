@@ -117,7 +117,7 @@ https://github.com/prathameshkamble979/WorkSphere-Enterprise-HRMS
 
 🌐 **Live Demo**
 
-https://autocon-client.vercel.app/
+https://autocon-solutions.vercel.app/
 
 📂 **Repository**
 
